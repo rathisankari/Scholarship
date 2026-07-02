@@ -1,0 +1,10 @@
+2026-07-02 21:09:09,491 | WARNING | Login attempt for unknown user: rathi sankari s
+2026-07-02 21:09:57,080 | INFO | New user registered: rathisankari s
+2026-07-02 21:09:57,080 | ERROR | Scholarship CSV not found: scholarships.csv
+2026-07-02 21:13:41,689 | INFO | Loaded 1 users from users.json
+2026-07-02 21:14:04,965 | INFO | New user registered: rathi sankari s
+2026-07-02 21:14:04,966 | WARNING | 246 data issues found in scholarship CSV.
+2026-07-02 21:14:04,967 | INFO | Loaded 38 scholarships from scholarships.csv
+2026-07-02 22:16:52,777 | INFO | Loaded 2 users from users.json
+2026-07-02 22:17:14,129 | INFO | New user registered: rathi s
+2026-07-02 22:17:14,130 | INFO | Loaded 23 scholarships from scholarships.csv
